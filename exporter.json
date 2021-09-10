@@ -1,16 +1,16 @@
 {
-    "id": "com.balancefriends.flutter-styles",
-    "name": "BalanceFlutter",
+    "id": "com.balancefriends.flutter-styles.dev",
+    "name": "BalanceFlutterDev",
     "description": "Flutter token and style exporter",
     "source_dir": "src",
-    "version": "1.0.5",
+    "version": "1.0.0",
     "tags": [
         "Flutter",
         "Dart",
         "Tokens",
         "Styles"
     ],
-    "author": "Artem Ufimtcev",
+    "author": "danny",
     "organization": "Supernova",
     "homepage": "https://supernova.io",
     "config": {
